@@ -1,3 +1,5 @@
+nie na poziomie text-to-image czy text-to-video ponieważ istotne z punktu widzenia kontroli jest oprogramowanie, które sztuczna inteligencja powinna najpierw napisać, uruchomić, przetestować i zintegrować z już istniejącym systemem, żadna aktualnie firma nie oferuje takiego rozwiązania, jest pewien wyjątek... 
+
 # docs.pologos.com
 
 
