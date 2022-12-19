@@ -71,11 +71,11 @@ Sam tekst
 
 ### klawiatura - poloSHELL
 
-w pierwszej koeljności dostępny jest poloSHEL, gdzie na porcie 23 można się zalogowac i prowadzić interakcję w celu wygenerowania aplikacji za pomocą klawiatury
+W pierwszej kolejności dostępny jest poloSHELL, gdzie na porcie 23 można się zalogować i prowadzić interakcję w celu wygenerowania aplikacji za pomocą klawiatury
 
 ### myszka - ShellUI
 
-poprzez port 8023 możan w przeglądarce połączyć się z system w sieci lokalnej i używając bardziej interaktywnego interfejsu używać na mobilnych urządzeniach
+Poprzez port 8023 można za pomocą przeglądarki połączyć się z system w sieci lokalnej i używając bardziej interaktywnego interfejsu używać na mobilnych urządzeniach
 
 ### Głos - SpeechCli
 
