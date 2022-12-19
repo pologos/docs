@@ -1,3 +1,5 @@
+# docs.pologos.com
+
 ## Przeszłość
 
 text-to-image czy text-to-video to zbyt mało, istotne z punktu widzenia kontroli naszego technologicznego środowiska jest oprogramowanie, które sztuczna inteligencja powinna najpierw napisać, uruchomić, przetestować i zintegrować z już istniejącym systemem, żadna aktualnie firma nie oferuje takiego rozwiązania, jest pewien wyjątek... 
@@ -15,9 +17,11 @@ w systemach opartych o AI trzeba rozróżnić:
  
 Tym ostatnim będzie #pologos https://www.pologos.com
 
+
 ## Przyszłość 
 
 Przyszłość zmierza nie tylko do produkcji oprogramowania w ciągu sekund, ale programowaniu całych ekosystemów technologicznych, zastępowanie nie pojedynczych specjalistów, ale całych zespołów.
+
 
 ## Ograniczenia AI
 
@@ -27,7 +31,6 @@ AI ma tylko przetwarzać dane wejściowe na format języka APIDSL
 
 
 
-# docs.pologos.com
 
 
 ## LFS
