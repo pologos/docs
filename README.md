@@ -292,3 +292,8 @@ Build, deploy, and manage solutions in IBM's public cloud.
 
 
 [Overview | IBM Cloud Docs](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-web-chat-config#web-chat-configure-launcher)
+
+## Packages
+
+https://github.com/flathub/flathub
+
