@@ -191,6 +191,13 @@ mosh
 
 https://github.com/PJ-Singh-001/Cubic
 
+
+[Live Magic: GUI tool for building Debian Live CDs, etc. Chris Lamb](https://chris-lamb.co.uk/projects/live-magic)
+[Projects — Chris Lamb](https://chris-lamb.co.uk/projects)
+
+[Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)
+
+
 ## Download ISO arch
 
 [Index of /archlinux/iso/2022.12.01/](https://mirror.eloteam.tk/archlinux/iso/2022.12.01/)
