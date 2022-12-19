@@ -210,9 +210,11 @@ https://github.com/PJ-Singh-001/Cubic
 
 ## Download ISO arch
 
-[Index of /archlinux/iso/2022.12.01/](https://mirror.eloteam.tk/archlinux/iso/2022.12.01/)
++ [Index of /archlinux/iso/2022.12.01/](https://mirror.eloteam.tk/archlinux/iso/2022.12.01/)
 
+## Download ISO endeavouros
 
++ [Installation – Discovery](https://discovery.endeavouros.com/category/installation/)
 
 ## Architektura
 
