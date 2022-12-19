@@ -67,6 +67,20 @@ Bez kommend bash
 Sam tekst
 
 
+## Interfejsy komunikacyjne
+
+### klawiatura - poloSHELL
+
+w pierwszej koeljności dostępny jest poloSHEL, gdzie na porcie 23 można się zalogowac i prowadzić interakcję w celu wygenerowania aplikacji za pomocą klawiatury
+
+### myszka - ShellUI
+
+poprzez port 8023 możan w przeglądarce połączyć się z system w sieci lokalnej i używając bardziej interaktywnego interfejsu używać na mobilnych urządzeniach
+
+### Głos - SpeechCli
+
+Interfejs głosowy będzie dostępny na SpeechCli, poprzez mikrofon i głośnik na urządzeniu, gdzie został zainstalowany system pologOS
+
 
 
 ## LFS
