@@ -201,3 +201,48 @@ https://github.com/PJ-Singh-001/Cubic
 ## Download ISO arch
 
 [Index of /archlinux/iso/2022.12.01/](https://mirror.eloteam.tk/archlinux/iso/2022.12.01/)
+
+
+## Architektura
+
+
+What are some existing tools for creating such diagrams?
+
+𝟭. 𝗣𝗹𝗮𝗻𝘁𝗨𝗠𝗟
+
+It is an open source tool allowing users to create diagrams from a plain text language. 
+
+𝟮. 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀
+
+Turn python code into cloud system architecture diagrams. 
+
+𝟯. 𝗠𝗲𝗿𝗺𝗮𝗶𝗱
+
+Generation of diagram and flowchart from text in a similar manner as markdown. 
+
+𝟰. 𝗔𝗦𝗖𝗜𝗜 𝗲𝗱𝗶𝘁𝗼𝗿
+
+Free editor.
+
+𝟱. 𝗠𝗮𝗿𝗸𝗺𝗮𝗽
+
+Visualize your Markdown as mindmaps. It supports the VS code plugin.
+
+𝟲. 𝗚𝗼 𝗱𝗶𝗮𝗴𝗿𝗮𝗺𝘀
+
+Create system diagrams with Go.
+
+𝟳. 𝗦𝗲𝗾𝘂𝗲𝗻𝗰𝗲𝗗𝗶𝗮𝗴𝗿𝗮𝗺.𝗼𝗿𝗴
+
+Create your UML sequence diagrams online, by using text notation.
+
+𝟴. 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝘇𝗿
+
+Create multiple diagrams from a single (C4) model.
+
+Links are in the comments.
+
+Image source: PlantUML for VSCode.
+
+
+[Architecture as Code with C4 and Plantuml](https://florat.net/architecture-as-code-with-c4-and-plantuml/)
