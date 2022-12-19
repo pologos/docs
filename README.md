@@ -198,6 +198,9 @@ https://github.com/PJ-Singh-001/Cubic
 [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)
 
 
+[Linux Live Kit is a set of shell scripts which allows you to create your own Live Linux!](https://www.linux-live.org/#explore)
+
+
 ## Download ISO arch
 
 [Index of /archlinux/iso/2022.12.01/](https://mirror.eloteam.tk/archlinux/iso/2022.12.01/)
