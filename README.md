@@ -133,3 +133,56 @@ mosh
 + 8080 - http web application on browser
 + 8081 - debug info
 + 8082 - orchestration panel
+
+
+
+
+
+
+[Best Tools To Create Your Own Custom Linux OS In 2022 | Itsubuntu.com](https://itsubuntu.com/tools-create-custom-linux-os/)
+
+> ## Tools To Create Your Own Custom Linux OS In 2022
+> 
+> ### 1) Linux From Scratch:
+> 
+> It is one of the most important collections of tools and resources to create your own custom Linux. It is popular for its step-by-step instructions to build a custom Linux.
+> 
+> [Linux From Scratch](http://www.linuxfromscratch.org/)
+> 
+> ### 2) Ubuntu Imager
+> 
+> A useful tool to create your own Ubuntu-based Linux operating system.
+> 
+> [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager)
+> 
+> ### 3) Linux Respin
+> 
+> Linux Respin is a tool to create a custom distro based on Debian or Ubuntu operating system.
+> 
+> [Linux Respin](http://www.linuxrespin.org/)
+> 
+> ### 4) Linux Live Kit
+> 
+> Linux Live Kit is a set of shell scripts. You can create your own Linux from an already installed Linux.
+> 
+> [Linux Live Kit](https://www.linux-live.org/)
+> 
+> ### 5) Live Magic
+> 
+> Live Magic is a GUI-based tool to create a Debian-based Linux operating system. It’s a pretty simple tool in comparison to other Linux distro creators.
+> 
+> [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
+> 
+> ### 6) Slax Modules Tool
+> 
+> An online tool from Slax which lets you create your own flavor of Slax Linux with your own set of applications.
+> 
+> [Slax Modules Tool](https://www.slax.org/modules.php)
+> 
+> ### 7) Cubic
+> 
+> A GUI-based amazing tool to create a customized bootable Ubuntu Live CD (ISO) image.
+> 
+> [Cubic](https://launchpad.net/cubic)
+> 
+> This much for now as you can try to build your own Linux operating system with the help of these tools. Let us know if we forget to mention some important must-have tools to create custom Linux.
