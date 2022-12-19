@@ -295,5 +295,35 @@ Build, deploy, and manage solutions in IBM's public cloud.
 
 ## Packages
 
+[App Submission · flathub/flathub Wiki](https://github.com/flathub/flathub/wiki/App-Submission)
+
+> ## Who can use Flathub
+> 
+> Flathub is primarily intended for use by developers who want to distribute desktop apps on Linux. Apps must either be redistributable or be available as a third party download.
+> 
+> If you are responsible for a commercial app that you would like to distribute through Flathub, you are also welcome to submit it through this process, provided that the following requirements are met:
+> 
+> -   The app is permitted to be redistributed by Flathub and other third parties (mirrors, CDN, hardware donors, etc)
+> -   The project license is correctly referenced in the metadata in the [appstream project\_license tag](https://www.freedesktop.org/software/appstream/docs/chap-Metadata.html#tag-project_license)
+> 
+> Note that at present, we have no mechanism to process payments for app publishers. In-app purchases, subscriptions or upgrades are acceptable provided that the [OARS metadata](https://hughsie.github.io/oars/generate.html#money) correctly reflects that such purchases are available.
+> 
+> If you have any other queries about publishing a commercial app, we’d love to speak to you and would encourage you to [contact the Flathub admins](mailto:flathub@lists.freedesktop.org).
+> 
+> ## How to submit an app
+> 
+> App submissions are extremely welcome and the process is straightforward. Before submitting an app for inclusion on Flathub, please follow the [app requirements](https://github.com/flathub/flathub/wiki/App-Requirements) to ensure that it is technically and legally compatible with the Flathub service. Once this has been done, you can submit the app for inclusion.
+> 
+> Flathub is managed through a GitHub project, and app submissions take place as pull requests. To submit an app:
+> 
+> 1.  Fork the [Flathub repository on GitHub](https://github.com/flathub/flathub/fork) with _"Copy the master branch only"_ unchecked.
+> 2.  Clone the fork: `git clone --branch=new-pr git@github.com:your_github_username/flathub.git`
+> 3.  Create a new branch with your app’s name: `git checkout -b your_app_name`
+> 4.  Add your app’s manifest to the branch, commit it and push the commit
+> 5.  Open a pull request against the `new-pr` branch on Github
+> 6.  Your pull request will then be reviewed by the Flathub admins
+> 
+> Once your pull request has been approved, a new repository will be created for your application, containing your app’s Flatpak manifest. You will have write access for the repository. The Flathub service then uses the manifest from your repository to continuously build and distribute your application on every commit.
+> 
 https://github.com/flathub/flathub
 
