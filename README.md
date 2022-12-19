@@ -186,3 +186,7 @@ mosh
 > [Cubic](https://launchpad.net/cubic)
 > 
 > This much for now as you can try to build your own Linux operating system with the help of these tools. Let us know if we forget to mention some important must-have tools to create custom Linux.
+
+## Download ISO arch
+
+[Index of /archlinux/iso/2022.12.01/](https://mirror.eloteam.tk/archlinux/iso/2022.12.01/)
