@@ -187,6 +187,7 @@ mosh
 > 
 > This much for now as you can try to build your own Linux operating system with the help of these tools. Let us know if we forget to mention some important must-have tools to create custom Linux.
 
+
 ## Cutom image
 
 https://github.com/PJ-Singh-001/Cubic
@@ -195,15 +196,17 @@ https://github.com/PJ-Singh-001/Cubic
 [Live Magic: GUI tool for building Debian Live CDs, etc. Chris Lamb](https://chris-lamb.co.uk/projects/live-magic)
 [Projects — Chris Lamb](https://chris-lamb.co.uk/projects)
 
-[Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)
++ [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)
 
++ [Linux Live Kit is a set of shell scripts which allows you to create your own Live Linux!](https://www.linux-live.org/#explore)
 
-[Linux Live Kit is a set of shell scripts which allows you to create your own Live Linux!](https://www.linux-live.org/#explore)
++ [GNU's advanced distro and transactional package manager — GNU Guix](https://guix.gnu.org/)
 
 
 ## Download ISO arch
 
 [Index of /archlinux/iso/2022.12.01/](https://mirror.eloteam.tk/archlinux/iso/2022.12.01/)
+
 
 
 ## Architektura
