@@ -137,6 +137,11 @@ mosh
 
 
 
+# DEVOPS TOOLS
+
++ [The Virtual DevOps platform | mogenius](https://mogenius.com/?trk=public_post-text)
+
+
 
 
 [Best Tools To Create Your Own Custom Linux OS In 2022 | Itsubuntu.com](https://itsubuntu.com/tools-create-custom-linux-os/)
