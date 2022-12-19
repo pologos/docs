@@ -291,3 +291,4 @@ Build your journey to public cloud
 Build, deploy, and manage solutions in IBM's public cloud.
 
 
+[Overview | IBM Cloud Docs](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-web-chat-config#web-chat-configure-launcher)
