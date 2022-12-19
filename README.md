@@ -30,6 +30,42 @@ Mimo wielu zalet, AI jest na zbyt niskim poziomie możliwości, zużywa za dużo
 AI ma tylko przetwarzać dane wejściowe na format języka APIDSL
 
 
+## Jak działa pologOS
+
+### Dostęp do systemu jest możliwy poprzez:
+
++ port 21 - dostęp do systemu danych
++ port 22 - standardowy shell
++ port 23 - shell typu text to software - poloSHELL
+
++ port 80 - widok aplikacji wytworzonej za pomocą pologOS, dostęp dla klienta
+
+dostęp dla developera TextToSoftware:
+
++ port 8023 - shellUI z dostępem do webowej wersji poloSHELL, 
++ port 8080 - webowe logi, debugowanie aplikacji,
+
+
+### Terminal
+
+Na porcie 22 mozesz aie polaczyc do normalnego shell a na porcie 23 do poloSHELL-a przygotwanego pod komunikację TextToSofwtare.
+
+po zalogowanie do konsoli poloShell mozliwa jest interakcja ze sztuczną inteligencją.
+Możliwe jest wygenerowanie aplikacji w kilku krokach, po podaniu danych potrzebnych do jej utworzenia i konfiguracji.
+
+Na porcie 80 bedzie dostepna wygenerowana apke webowa.
+
+
+### Cloud
+
+Fizycznie to bedzie mozliwe do uruchomienia w dockerze do testow ale tez na chmurze
+
+Kazdy user bedzie mial swoj VPS z tM systemem
+Chodzi o to by pisac jak na chat, zadajac pytania i dajac odpowiedzi
+Taki interaktywny chat
+Bez kommend bash
+Sam tekst
+
 
 
 
