@@ -254,3 +254,40 @@ Image source: PlantUML for VSCode.
 
 
 + [openSUSE Tumbleweed - Get openSUSE](https://get.opensuse.org/tumbleweed/)
+
+
+### Chat AI
+
+Asystent
+
+https://cloud.ibm.com/registration
+
+IBMWatson Assistant
+error image
+Start building today!
+
+Lite plan includes the following at no cost
+
+Up to 1,000 unique monthly active users (MAUs), up to 10,000 messages per month, up to 5 Skills (Dialog, Action, Search), 7 days of usage analytics, session inactivity timeout 5 minutes, services are deleted after 30 days of inactivity.
+
+Customer experience made easy
+
+Our out-of-the-box chat interface is designed based on years of knowledge to help you make every interaction enjoyable.
+
+Anyone can build an assistant
+
+Watson Assistant’s intuitive interface enables you to easily create dynamic customer interactions. Configure channels and human-agent handoffs to leading customer care platforms with ease and within minutes.
+
+Connect to any system or channel
+
+Connect Watson Assistant to messaging channels, voice channels (IVRs), market-leading customer service desks, or any other application across your organization.
+
+Deploy anywhere, own your data
+
+Whether it’s IBM, Amazon, Google, or Microsoft, Watson Assistant runs in any cloud and on-premises environment.
+
+Build your journey to public cloud
+
+Build, deploy, and manage solutions in IBM's public cloud.
+
+
