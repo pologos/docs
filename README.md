@@ -245,4 +245,12 @@ Links are in the comments.
 Image source: PlantUML for VSCode.
 
 
+
 [Architecture as Code with C4 and Plantuml](https://florat.net/architecture-as-code-with-c4-and-plantuml/)
+
+
+## Przykładowe i interesujące systemy
+
+
+
++ [openSUSE Tumbleweed - Get openSUSE](https://get.opensuse.org/tumbleweed/)
