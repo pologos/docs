@@ -340,3 +340,18 @@ Build, deploy, and manage solutions in IBM's public cloud.
 > 
 https://github.com/flathub/flathub
 
+
+
+
+
+[AI Operating System. Introduction | by Bhagvan Kommadi | DataDrivenInvestor](https://medium.datadriveninvestor.com/ai-operating-system-7809e7fc4e49)
+
+> # AI Operating System
+> 
+> **Introduction**
+> 
+> AI based operating system can have features related to software management , hardware management and common system services. The key differentiator from classical operating system will be the intelligence in the management of the system. Operating system architecture evolved from old IBM Mainframe to linux and macOS. Windows metro showed some of the features of Artificial intelligence in the operating system. Strong Artificial intelligence based methods are used for AI operating system. Fuzzy logic, expert system, neural networks, pattern recognition, prediction, and other AI features are used to develop the AI operating system.
+> 
+> Artificial Intelligence based Operations system has perceptive intelligence, imaginations context specific search, context priming, abstraction association al thinking and other AI techniques. These methods help in cutting down the operation time by using parallelization of processes, good management of memory, and improved security. New operating systems have digital assistants, translation services, voice recognition, user interaction, profile management, security scanning, and user reporting.
+
+
