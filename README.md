@@ -1,4 +1,4 @@
-# docs.pologos.com
+# [docs.pologos.com](https://docs.pologos.com/)
 
 ## Przeszłość
 
@@ -355,3 +355,5 @@ https://github.com/flathub/flathub
 > Artificial Intelligence based Operations system has perceptive intelligence, imaginations context specific search, context priming, abstraction association al thinking and other AI techniques. These methods help in cutting down the operation time by using parallelization of processes, good management of memory, and improved security. New operating systems have digital assistants, translation services, voice recognition, user interaction, profile management, security scanning, and user reporting.
 
 
+---
++ [edit](https://github.com/pologos/docs/edit/main/README.md)
